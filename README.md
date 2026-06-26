@@ -228,7 +228,8 @@ The best parameters are then used to retrain and evaluate the final XGBoost mode
 
 ## Author
 
-Developed as part of the Udemy / IBM lab: *Churn Analysis and Prediction: Machine Learning Model Testing and Evaluation Using Python*
+Bright — Machine Learning Engineer
+Healthcare Predictive Analytics Project*
 
 ---
 
